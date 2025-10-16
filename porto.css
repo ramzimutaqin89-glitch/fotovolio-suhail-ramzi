@@ -301,13 +301,13 @@ padding: 10px;
   font-size: 40px;
 }
 
-.text h3{
+.text-h3-1{
   width: 236px;
   border-right: 2px solid black;
   overflow: hidden;
   box-sizing: border-box;
   font-family: Georgia, 'Times New Roman', Times, serif;
-  animation: berjalan 3s steps(27,end) , kedip 0.5s infinite;
+  animation: berjalan 3s steps(27,end) infinite, kedip 0.5s infinite;
   white-space: nowrap;
 }
 @keyframes berjalan{
@@ -1500,6 +1500,7 @@ a:hover{
   
 }
 }
+
 
 
 
