@@ -302,7 +302,7 @@ padding: 10px;
 }
 
 .text h3{
-  width: 40ch; 
+  width: 39ch; 
   border-right: 2px solid black;
   overflow: hidden;
   box-sizing: border-box;
@@ -311,15 +311,13 @@ padding: 10px;
   white-space: nowrap;
 }
 @keyframes berjalan{
-  0%{
+  from{
     width: 0;
   }
-  50%{
+  to{
     width:39ch;
   }
-    100%{
-          width: 0;
-     }
+   
 }
 @keyframes kedip {
   from{
@@ -1503,6 +1501,7 @@ a:hover{
   
 }
 }
+
 
 
 
