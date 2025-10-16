@@ -301,7 +301,7 @@ padding: 10px;
   font-size: 40px;
 }
 
-.text-h3-1{
+.text h3{
   width: 40ch; 
   border-right: 2px solid black;
   overflow: hidden;
@@ -1503,6 +1503,7 @@ a:hover{
   
 }
 }
+
 
 
 
